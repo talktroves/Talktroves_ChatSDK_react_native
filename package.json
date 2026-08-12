@@ -1,0 +1,13 @@
+{
+  "name": "talktroves_chatsdk",
+  "private": true,
+  "description": "TalkTroves chat widget — React Native SDK",
+  "workspaces": [
+    "packages/talktroves_chatsdk",
+    "example"
+  ],
+  "scripts": {
+    "example": "npm --workspace example start",
+    "typecheck": "npm --workspace talktroves_chatsdk run typecheck"
+  }
+}

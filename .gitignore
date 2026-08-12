@@ -1,0 +1,23 @@
+# OS / IDE
+.DS_Store
+.idea/
+*.iml
+*.swp
+
+# Node / React Native
+node_modules/
+**/node_modules/
+.expo/
+example/.expo/
+example/dist/
+*.log
+npm-debug.log*
+yarn-error.log*
+.metro-health-check*
+
+# TypeScript
+*.tsbuildinfo
+
+# Package build output
+packages/talktroves_chatsdk/lib/
+*.tgz

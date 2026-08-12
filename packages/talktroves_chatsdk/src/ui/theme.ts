@@ -1,0 +1,16 @@
+export const Colors = {
+  Blue: '#2B5AD9',
+  ChatBackground: '#F5F7FB',
+  Online: '#34C759',
+  Offline: '#9CA3AF',
+  UserBubble: '#F0F3FA',
+  UserText: '#2C3E6B',
+  AssistantBorder: '#EBEFF5',
+  TextPrimary: '#1F2937',
+  TextSecondary: '#6B7280',
+  TextMuted: '#9CA3AF',
+  FieldBorder: '#D3DDF6',
+  MenuText: '#1B2538',
+  NoticeBackground: '#1F1F1F',
+  ScreenBackground: '#E5E7EB',
+} as const;

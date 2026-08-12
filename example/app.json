@@ -1,0 +1,27 @@
+{
+  "name": "talktroves_chatsdk-example",
+  "slug": "talktroves_chatsdk-example",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "icon": "./assets/icon.png",
+  "userInterfaceStyle": "light",
+  "splash": {
+    "image": "./assets/splash-icon.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#2B5AD9"
+  },
+  "ios": {
+    "supportsTablet": true,
+    "bundleIdentifier": "com.talktroves.chatsdk.example"
+  },
+  "android": {
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/adaptive-icon.png",
+      "backgroundColor": "#2B5AD9"
+    },
+    "package": "com.talktroves.chatsdk.example"
+  },
+  "web": {
+    "favicon": "./assets/favicon.png"
+  }
+}
