@@ -39,16 +39,16 @@
     "widget",
     "socket.io"
   ],
-  "author": "Numanshakir",
+  "author": "TalkTroves",
   "license": "MIT",
-  "homepage": "https://github.com/Numanshakir/Talktroves_ChatSDK#readme",
+  "homepage": "https://github.com/talktroves/Talktroves_ChatSDK_react_native#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Numanshakir/Talktroves_ChatSDK.git",
+    "url": "git+https://github.com/talktroves/Talktroves_ChatSDK_react_native.git",
     "directory": "packages/talktroves_chatsdk"
   },
   "bugs": {
-    "url": "https://github.com/Numanshakir/Talktroves_ChatSDK/issues"
+    "url": "https://github.com/talktroves/Talktroves_ChatSDK_react_native/issues"
   },
   "publishConfig": {
     "access": "public"
